@@ -1,0 +1,6 @@
+{
+  "name": "Skill India Digital - Trainee Details",
+  "description": "NCVT MIS Trainee Details and Certification Verification Portal for Skill India Digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
